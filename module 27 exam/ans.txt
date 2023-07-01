@@ -1,0 +1,44 @@
+Ans: 555555555555
+Reliable systems handle faults, failures and errors.
+Effective systems meet all user needs as well as business requirements.
+Maintainable systems are flexible and easy to scale up or down. The addition of new features is simple in maintainable systems as well.
+
+
+Ans: 66666666
+
+Ability to solve complex problems with an analytical, systematic approach
+
+Ability to communicate and work well with others to ensure functionality in their design
+
+Have a keen attention to detail and are highly organised – especially when planning out a complex system design and the many components involved
+
+Exert strong leadership skills for delegating tasks or directing the work of others
+
+Able to meet strict deadlines
+
+Have expertise in information technology and computing systems
+
+Ans: 777777777777777777
+
+অ্যালগরিদম (algorithm) হলো এমন কিছু বিশেষ নির্দেশাবলীর সেট বা ক্রম যার মাধ্যমে কোনো বিশেষ সমস্যার সমাধান করা যেতে পারে।
+
+
+Ans: 8888888888888888888
+
+
+Ans: 99999999999999999
+
+In the top-down approach to management, a team or project manager makes decisions, which then filter down through a hierarchical structure. Managers gather knowledge, analyze it, and draw actionable conclusions. They then develop processes that are communicated to and implemented by the rest of the team. You may hear this style of management referred to as “command and control” or “autocratic leadership.”
+
+The top-down approach is probably what you think of when you think of the management process. Traditional industries like retail, healthcare, or manufacturing typically apply the top-down management style.
+
+
+
+Ans: 100000000000
+
+ফার্স্ট টাইম ওপেন সোর্স সম্পর্কে জানলাম। আর্টিকেলটি কয়েক লাইন পড়ার পরে আগ্রহ বেড়ে গেল দ্বিগুণ। 
+
+আমি যে আর্টিকেলটি পড়েছি সেখানে লিনাক্স ওপেন সোর্স অপারেটিং সিস্টেম সম্পর্কে আলোচনা করা হয়েছে। 
+এই অপারেটিং সিস্টেম টি ওপেন সোর্স থাকার কারণে। বাংলা ভাষায় অপারেটিং সিস্টেম ব্যবহার করার সুবিধা পাচ্ছি। চাইলে নিজের মতো করে সিস্টেমটিকে পুনরায় নতুন ফিচার যুক্ত করার সুবিধা রয়েছে। তা ছাড়া কোন রকম ভয় ভীতি ছাড়া নির্দ্বিধায় মানুষ এটিকে ব্যবহার করছে। 
+
+এটি থেকে আমরা বুঝতে পারলাম ওপেন সোর্সের গুরুত্ব অপরসীম। সুতরাং ভবিষ্যতে আমরাও যখন কোন সফটওয়্যার ডিজাইন করব সেটিকে ওপেন  সোর্স করে রাখবো। যাতে পরবর্তীতে এটির ইউজার এটিকে নিজের ইচ্ছেমতো কাস্টমাইজ করতে পারে নতুন ফিচার যুক্ত করতে পারে এবং নির্দ্বিধায় ব্যবহার করতে পারে।

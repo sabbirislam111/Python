@@ -1,0 +1,1 @@
+n.strftime("%H:%M:%S"))

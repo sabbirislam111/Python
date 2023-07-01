@@ -1,0 +1,1 @@
+# expression or a function can be replaced by its value without changing the programmer's behavior
